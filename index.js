@@ -5,3 +5,7 @@ function hello(){
 window.addEventListener('DOMContentLoaded', function() {
   hello();
 })
+
+function now(){
+
+}
